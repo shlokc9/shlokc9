@@ -32,6 +32,12 @@
     <th>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=shlokchaudhari9&hide_border=true&theme=blueberry" align="center" />
     </th>
+    <th>
+      <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" align="center"/>
+    </th>
+     <th>
+      <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." align="center"/>
+    </th>
   </tr>
 </table>
 
