@@ -24,6 +24,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="GoogleCloud" width="45" height="45" /> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="45" height="45" /> &nbsp;
 
+## 💪 Motivation
+
 <table>
   <tr>
     <th>
