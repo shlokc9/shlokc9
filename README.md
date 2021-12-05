@@ -18,8 +18,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45" /> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="45" height="45" /> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="45" height="45" /> &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" alt="MySQL" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" alt="MySQL" width="45" height="45"/> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" width="45" height="45"/> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45" /> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="GoogleCloud" width="45" height="45" /> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="45" height="45" /> &nbsp;
@@ -39,5 +39,5 @@
 
 ## 🔗Reach Me
 
-<a href="https://twitter.com/shlokchaudhari9"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter" width="45" height="45"/></a>
-<a href="https://www.linkedin.com/in/shlokchaudhari9/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="LinkedIn" width="45" height="45"/></a>
+<a href="https://twitter.com/shlokchaudhari9"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter" width="45" height="45"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/shlokchaudhari9/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="LinkedIn" width="45" height="45"/></a> &nbsp;
