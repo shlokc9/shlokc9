@@ -4,7 +4,7 @@
 
 - I am a Software Engineer @ :infacloud: & an open-source enthusiast
 - 🌱 I am a perpetual learner by nature
-- 😄 Pronouns: She/Her
+- :bike: Apart from work, I like to ride my bicycle
 
 
 ## ⚓️ Tech
