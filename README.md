@@ -1,12 +1,12 @@
 <h2 align="left">  Hi 👋, I am Shlok </h2> 
 
- ### :man_shrugging: About me
+ ## :man_shrugging: About me
 
 | Work | Off-Work |
 | :--- | :--- |
 | 🎯 Product Engineer @ [InfraCloud Technologies Inc.](//infracloud.io) <br/>🔰 Open-Source Cloud-Native Tech Enthusiast <br/>🌱 Perpetual Learner | 🚲 Rides Bicycle <br/>♟️	Plays Chess <br/>♥️ Listening to 🎵 |
 
-### ⚓️ Tech stack
+## ⚓️ Tech stack
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Golang" width="45" height="45" /> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="45" height="45" /> &nbsp;
@@ -24,7 +24,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="GoogleCloud" width="45" height="45" /> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="45" height="45" /> &nbsp;
 
-### 💪 Motivation
+## 💪 Motivation
 
 <table>
   <tr>
@@ -37,7 +37,7 @@
   </tr>
 </table>
 
-### 🔗Reach me
+## 🔗Reach me
 
 <a href="https://twitter.com/shlokchaudhari9"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter" width="45" height="45"/></a>
 <a href="https://www.linkedin.com/in/shlokchaudhari9/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="LinkedIn" width="45" height="45"/></a>
