@@ -5,6 +5,7 @@
 - :beginner: Open-Source Enthusiast
 - 🌱 Perpetual Learner
 - :bike: Rides Bicycle
+- :chess_pawn:	Plays Chess
 - :hearts: Listening to :musical_note:
 
 
