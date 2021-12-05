@@ -1,4 +1,4 @@
- # Hi 👋, I am Shlok
+ <h2 align="left">  Hi! I am Shlok👋 </h2> 
 
  ## :man_shrugging: About me
 
