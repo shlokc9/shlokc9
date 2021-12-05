@@ -1,4 +1,4 @@
-<h2 align="center">  Hi 👋, I am Shlok Chaudhari </h2> 
+<h2 align="left">  Hi 👋, I am Shlok Chaudhari </h2> 
 
  ## :man_shrugging: About me
 
@@ -6,7 +6,7 @@
 | :--- | :--- |
 | 🎯 Product Engineer @ [InfraCloud Technologies Inc.](//infracloud.io) <br/>🔰 Open-Source Cloud-Native Tech Enthusiast <br/>🌱 Perpetual Learner | 🚲 Rides Bicycle <br/>♟️	Plays Chess <br/>♥️ Listening to 🎵 |
 
-## ⚓️ Tech
+## ⚓️ Tech stack
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Golang" width="45" height="45" /> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="45" height="45" /> &nbsp;
@@ -35,7 +35,7 @@
   </tr>
 </table>
 
-## 🔗Social handles
+## 🔗Reach me
 
 <a href="https://twitter.com/shlokchaudhari9"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter" width="45" height="45"/></a>
 <a href="https://www.linkedin.com/in/shlokchaudhari9/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="LinkedIn" width="45" height="45"/></a>
