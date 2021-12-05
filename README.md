@@ -3,7 +3,7 @@
  ## :man_shrugging: About Me
 
 - Product Engineer @ [InfraCloud](//infracloud.io)
-- :beginner: Open-Source Enthusiast
+- :beginner: Open-Source Cloud-Native Tech Enthusiast
 - 🌱 Perpetual Learner
 - :bike: Rides Bicycle
 - :chess_pawn:	Plays Chess
