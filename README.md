@@ -2,7 +2,7 @@
 
  ## :man_shrugging: About Me
 
-- I am a Software Engineer & an open-source enthusiast
+- :beginner: Open-Source Enthusiast
 - 🌱 Perpetual Learner
 - :bike: Rides Bicycle
 - :hearts: Listening to :musical_note:
