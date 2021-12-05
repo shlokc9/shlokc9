@@ -40,4 +40,5 @@
 
 ## 🔗Connect with me
 
-<a href="https://www.linkedin.com/in/shlokchaudhari9/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="linkedIn" width="30"/></a>
+<a href="https://www.linkedin.com/in/shlokchaudhari9/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="LinkedIn" width="30"/></a>
+<a href="https://twitter.com/shlokchaudhari9"><img src="https://www.flaticon.com/free-icon/twitter_124021" alt="Twitter" width="30"/></a>
