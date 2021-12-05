@@ -4,10 +4,7 @@
 
 | Work | Off-Work |
 | :--- | :--- |
-| 🎯 Product Engineer @ [InfraCloud Technologies Inc.](//infracloud.io) | 🚲 Rides Bicycle
-| 🔰 Open-Source Cloud-Native Tech Enthusiast | ♟️	Plays Chess
-| 🌱 Perpetual Learner | ♥️ Listening to 🎵 |
-
+| - 🎯 Product Engineer @ [InfraCloud Technologies Inc.](//infracloud.io) <br/>- 🔰 Open-Source Cloud-Native Tech Enthusiast <br/>- 🌱 Perpetual Learner | - 🚲 Rides Bicycle <br/>- ♟️	Plays Chess <br/>- ♥️ Listening to 🎵 |
 
 ## ⚓️ Tech
 
