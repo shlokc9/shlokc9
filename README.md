@@ -30,7 +30,7 @@
 <table>
   <tr>
     <th>
-      <img src="https://github-readme-stats.vercel.app/api?username=shlokchaudhari9&show_icons=true&custom_title=GitHub Stats&count_private=true&theme=blueberry" align="center" />
+      <img src="https://github-readme-stats.vercel.app/api?username=shlokchaudhari9&show_icons=true&custom_title=Shlok's GitHub Stats&count_private=true&theme=blueberry" align="center" />
     </th>
     <th>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=shlokchaudhari9&hide_border=true&theme=blueberry" align="center" />
@@ -41,4 +41,4 @@
 ## 🔗Connect with me
 
 <a href="https://www.linkedin.com/in/shlokchaudhari9/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="LinkedIn" width="30"/></a>
-<a href="https://twitter.com/shlokchaudhari9"><img src="https://www.flaticon.com/free-icon/twitter_124021" alt="Twitter" width="30"/></a>
+<a href="https://twitter.com/shlokchaudhari9"><img src="https://www.flaticon.com/free-icon/twitter_733579?term=github&page=1&position=73&page=1&position=73&related_id=733579&origin=tag" alt="Twitter" width="30"/></a>
