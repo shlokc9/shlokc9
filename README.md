@@ -2,9 +2,10 @@
 
  ## :man_shrugging: About Me
 
-- I am a Software Engineer @ :infacloud: & an open-source enthusiast
-- 🌱 I am a perpetual learner by nature
-- :bike: Apart from work, I like to ride my bicycle
+- I am a Software Engineer & an open-source enthusiast
+- 🌱 Perpetual Learner
+- :bike: Rides Bicycle
+- :hearts: Listening to :musical_note:
 
 
 ## ⚓️ Tech
