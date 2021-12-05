@@ -10,6 +10,7 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Golang" width="40" height="40" /> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="Django" width="40" height="40" /> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" alt="JQuery" width="40" height="40" /> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" /> &nbsp;
@@ -23,7 +24,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" /> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="GoogleCloud" width="40" height="40" /> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40" /> &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="Django" width="40" height="40" /> &nbsp;
 
 
 <table>
