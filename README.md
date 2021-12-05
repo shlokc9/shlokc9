@@ -1,16 +1,36 @@
-### Hi there 👋
+<h2 align="center">  Hi 👋, I am Shlok Chaudhari </h2> 
 
-<!--
-**shlokchaudhari9/shlokchaudhari9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ## :man_shrugging: About Me
 
-Here are some ideas to get you started:
+- I am a Software Engineer @ :infacloud: & an open-source enthusiast
+- 🌱 I am a perpetual learner by nature
+- 😄 Pronouns: She/Her
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## ⚓️ Tech
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50" /> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" /> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" height="50" /> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" /> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50" /> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Golang" width="50" height="50" /> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50" /> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" alt="PostgreSQL" width="50" height="50"/> 
+
+<table>
+  <tr>
+    <th>
+      <img src="https://github-readme-stats.vercel.app/api?username=suhaniii&show_icons=true&custom_title=GitHub Stats&count_private=true&theme=blueberry" align="center" />
+    </th>
+    <th>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhaniii&hide_border=true&theme=blueberry" align="center" />
+    </th>
+  </tr>
+</table>
+
+
+<p align="center" style="margin-top:30px;">
+  <a href="https://www.linkedin.com/in/shlokchaudhari9/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="linkedIn" width="30"/></a>
+</p>
