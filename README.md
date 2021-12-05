@@ -2,12 +2,12 @@
 
  ## :man_shrugging: About Me
 
-- :dart: Product Engineer @ [InfraCloud Technologies Inc.](//infracloud.io)
-- :beginner: Open-Source Cloud-Native Tech Enthusiast
+- 🎯 Product Engineer @ [InfraCloud Technologies Inc.](//infracloud.io)
+- 🔰 Open-Source Cloud-Native Tech Enthusiast
 - 🌱 Perpetual Learner
-- :bike: Rides Bicycle
-- :chess_pawn:	Plays Chess
-- :hearts: Listening to :musical_note:
+- 🚲 Rides Bicycle
+- ♟️	Plays Chess
+- ♥️ Listening to 🎵
 
 
 ## ⚓️ Tech
@@ -38,7 +38,6 @@
   </tr>
 </table>
 
+## 🔗Connect with me
 
-<p align="center" style="margin-top:30px;">
-  <a href="https://www.linkedin.com/in/shlokchaudhari9/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="linkedIn" width="30"/></a>
-</p>
+<a href="https://www.linkedin.com/in/shlokchaudhari9/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="linkedIn" width="30"/></a>
