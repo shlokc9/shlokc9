@@ -1,6 +1,6 @@
 <h2 align="center">  Hi 👋, I am Shlok Chaudhari </h2> 
 
- ## :man_shrugging: About Me
+ ## :man_shrugging: About me
 
 | Work | Off-Work |
 | :--- | :--- |
