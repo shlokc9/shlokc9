@@ -2,7 +2,7 @@
 
  ## :man_shrugging: About Me
 
-- Product Engineer @ [InfraCloud](//infracloud.io)
+- Product Engineer @ [InfraCloud Technologies Inc.](//infracloud.io)
 - :beginner: Open-Source Cloud-Native Tech Enthusiast
 - 🌱 Perpetual Learner
 - :bike: Rides Bicycle
