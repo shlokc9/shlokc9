@@ -34,7 +34,7 @@
   </tr>
 </table>
 
-## 🔗Connect with me
+## 🔗Social handles
 
 <a href="https://www.linkedin.com/in/shlokchaudhari9/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="LinkedIn" width="30"/></a>
-<a href="https://twitter.com/shlokchaudhari9"><img src="https://www.flaticon.com/free-icon/twitter_733579?term=github&page=1&position=73&page=1&position=73&related_id=733579&origin=tag" alt="Twitter" width="30"/></a>
+<a href="https://twitter.com/shlokchaudhari9"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter" width="30"/></a>
