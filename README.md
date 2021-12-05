@@ -3,7 +3,7 @@
  ## :man_shrugging: About Me
 
 | Work | Off-Work |
-| :---: | :---: |
+| :--- | :--- |
 | 🎯 Product Engineer @ [InfraCloud Technologies Inc.](//infracloud.io) | 🚲 Rides Bicycle
 | 🔰 Open-Source Cloud-Native Tech Enthusiast | ♟️	Plays Chess
 | 🌱 Perpetual Learner | ♥️ Listening to 🎵 |
