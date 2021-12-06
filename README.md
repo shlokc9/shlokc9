@@ -1,6 +1,6 @@
 <h2 align="center"> Hi! I'm Shlok👋 Welcome to my "Make-And-Break" profile :P </h2>
 
-### 🎯 About Me &nbsp;
+### ☮️ About Me &nbsp;
 
 <div align="left">
 
@@ -30,7 +30,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40" /> &nbsp;
 </p>
 
-### 💪 My Motivation &nbsp;
+### 🎯 Work Stats &nbsp;
 
 <table>
   <tr>
