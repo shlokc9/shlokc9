@@ -2,7 +2,7 @@
 
  ### 🎯 About Me &nbsp;
 
-<div align="center">
+<div align="left">
 
 | Work | Off-Work |
 | :--- | :--- |
