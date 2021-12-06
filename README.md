@@ -1,4 +1,4 @@
- ## Hi! I'm Shlok👋 Welcome to my "Make-And-Break" profile :P &nbsp; &nbsp;
+ ## Hi! I'm Shlok👋 Welcome to my "Make-And-Break" profile :P
 
  ### 🎯 About Me &nbsp;
 
@@ -12,7 +12,7 @@
 
 ### 🖥️ Tech Stack &nbsp;
 
-<p  align="center">
+<p  align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Golang" width="40" height="40" /> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="Django" width="40" height="40" /> &nbsp;
@@ -46,7 +46,7 @@
 
 ### 🔗 Reach Me &nbsp;
 
-<p  align="center">
+<p  align="left">
   <a href="https://twitter.com/shlokchaudhari9"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter" width="30" height="30"/></a> &nbsp;
   <a href="https://www.linkedin.com/in/shlokchaudhari9/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="LinkedIn" width="30" height="30"/></a> &nbsp;
 </p>
