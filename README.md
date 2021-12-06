@@ -1,7 +1,5 @@
  ## Hi! I'm Shlok👋 Welcome to my "Make-And-Break" profile :P
 
-<br>
-
  ### 🎯 About Me &nbsp;
 
 <div align="left">
@@ -11,8 +9,6 @@
 | 🚀 Product Engineer @ [InfraCloud Technologies Inc.](//infracloud.io) <br/>🔰 Open-Source Cloud-Native Tech Enthusiast <br/>🌱 Perpetual Learner | 🚲 Rides Bicycle <br/>♟️	Plays Chess <br/>♥️ Listening to 🎵 |
 
 </div>
-
-<br>
 
 ### 🖥️ Tech Stack &nbsp;
 
@@ -34,8 +30,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40" /> &nbsp;
 </p>
 
-<br>
-
 ### 💪 My Motivation &nbsp;
 
 <table>
@@ -48,8 +42,6 @@
     </th>
   </tr>
 </table>
-
-<br>
 
 ### 🔗 Reach Me &nbsp;
 
