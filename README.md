@@ -1,6 +1,6 @@
  <h2 align="center" style="border-bottom:none;">  Hi! I'm Shlok👋 Welcome to my "Make-And-Break" profile :P </h2>
 
- ## 🎯 About Me
+ ## 🎯 &nbsp;About Me
 
 <div align="center">
 
@@ -10,7 +10,7 @@
 
 </div>
 
-## 🖥️ Tech Stack
+## 🖥️ &nbsp;Tech Stack
 
 <p  align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Golang" width="40" height="40" /> &nbsp;
@@ -31,7 +31,7 @@
 </p>
 
 
-## 💪 My Motivation
+## 💪 &nbsp;My Motivation
 
 <table>
   <tr>
@@ -44,7 +44,7 @@
   </tr>
 </table>
 
-## 🔗Reach Me
+## 🔗 &nbsp;Reach Me
 
 <p  align="center">
   <a href="https://twitter.com/shlokchaudhari9"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter" width="30" height="30"/></a> &nbsp;
