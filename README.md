@@ -1,10 +1,10 @@
  <h2 align="left">  Hi! I'm Shlok👋 Welcome to my "Make-And-Break" profile :P </h2>
 
- ## :man_shrugging: About Me
+ ## 🎯 About Me
 
 | Work | Off-Work |
 | :--- | :--- |
-| 🎯 Product Engineer @ [InfraCloud Technologies Inc.](//infracloud.io) <br/>🔰 Open-Source Cloud-Native Tech Enthusiast <br/>🌱 Perpetual Learner | 🚲 Rides Bicycle <br/>♟️	Plays Chess <br/>♥️ Listening to 🎵 |
+| 🚀 Product Engineer @ [InfraCloud Technologies Inc.](//infracloud.io) <br/>🔰 Open-Source Cloud-Native Tech Enthusiast <br/>🌱 Perpetual Learner | 🚲 Rides Bicycle <br/>♟️	Plays Chess <br/>♥️ Listening to 🎵 |
 
 ## ⚓️ Tech Stack
 
