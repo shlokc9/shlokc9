@@ -1,4 +1,4 @@
- <h2 align="left">  Hi! I am Shlok👋 Welcome to my "Make-And-Break" profile :P </h2>
+ <h2 align="left">  Hi! I'm Shlok👋 Welcome to my "Make-And-Break" profile :P </h2>
 
  ## :man_shrugging: About Me
 
