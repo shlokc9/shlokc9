@@ -32,10 +32,10 @@
 
 ### 🎯 Work Stats &nbsp;
 
-<table>
+<table style="border:none;">
   <tr>
     <th>
-      <img src="https://github-readme-stats.vercel.app/api?username=shlokchaudhari9&show_icons=true&custom_title=Shlok's GitHub Stats&count_private=true&theme=blueberry" align="center" />
+      <img src="https://github-readme-stats.vercel.app/api?username=shlokchaudhari9&hide_border=true&show_icons=true&custom_title=Shlok's GitHub Stats&count_private=true&theme=blueberry" align="center" />
     </th>
     <th>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=shlokchaudhari9&hide_border=true&theme=blueberry" align="center" />
