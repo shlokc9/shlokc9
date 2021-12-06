@@ -8,7 +8,7 @@
 
 ## 🖥️ Tech Stack
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Golang" width="45" height="45" /> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Golang" width="40" height="40" /> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="45" height="45" /> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="Django" width="45" height="45" /> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" /> &nbsp;
