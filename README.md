@@ -1,4 +1,4 @@
-<h2 align="center" style="display: inline !important;"> Hi! I'm Shlok👋 Welcome to my "Make-And-Break" profile :P </h2>
+<h2 align="center"> Hi! I'm Shlok👋 Welcome to my "Make-And-Break" profile :P </h2>
 
 ### 🎯 About Me &nbsp;
 
