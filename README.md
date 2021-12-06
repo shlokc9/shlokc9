@@ -1,4 +1,4 @@
- ## Hi! I'm Shlok👋 Welcome to my "Make-And-Break" profile :P
+ <p align="center" style="font-size:large;"> Hi! I'm Shlok👋 Welcome to my "Make-And-Break" profile :P </h3>
 
  ### 🎯 About Me &nbsp;
 
