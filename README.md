@@ -1,4 +1,4 @@
-<h2 align="center"> Hi, I'm Shlok!👋</h2>
+<img src="./header.png" alt="Introduction"/> &nbsp;
 
 ### ☮️ About Me &nbsp;
 
