@@ -1,4 +1,6 @@
-<img src="./header.png" alt="Introduction"/> &nbsp;
+<p  align="center">
+  <img src="./header.png" alt="Introduction"/> &nbsp;
+</p>
 
 ### ☮️ About Me &nbsp;
 
