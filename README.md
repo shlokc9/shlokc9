@@ -1,5 +1,5 @@
 <p  align="center">
-  <img src="./header_1.png" alt="Introduction"/> &nbsp;
+  <img src="./header.png" alt="Introduction"/> &nbsp;
 </p>
 
 ### ☮️ About Me &nbsp;
