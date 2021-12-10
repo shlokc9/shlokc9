@@ -41,6 +41,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" alt="MySQL" width="45" height="45"/> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" width="45" height="45"/> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45" /> &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="GoogleCloud" width="45" height="45" /> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="45" height="45" /> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="GoogleCloud" width="45" height="45" /> &nbsp;
 </p>
