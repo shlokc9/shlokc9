@@ -12,7 +12,7 @@
 
 </div>
 
-### 🎯 Work Stats &nbsp;
+### 🎯 GitHub Summary &nbsp;
 
 <table style="border-collapse:collapse;border:none;">
   <tr>
