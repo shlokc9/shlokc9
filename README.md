@@ -1,5 +1,5 @@
 <p  align="center">
-  <img src="./header_1.png" alt="Introduction"/> &nbsp;
+  <img src="./header_1.png" alt="Introduction"/>
 </p>
 
 ### ☮️ About Me &nbsp;
@@ -11,6 +11,8 @@
 | 🚀 Product Engineer @ [InfraCloud Technologies Inc.](//infracloud.io) <br/>🔰 Open-Source Cloud-Native Tech Enthusiast <br/>🌱 Perpetual Learner <br/>📜 Scroll further for details.... | 🚲 Rides Bicycle <br/>♟️	Plays Chess <br/>♥️ Listening to 🎵 <br/> 🎥 Binges Movies and TV series | <a href="https://twitter.com/shlokchaudhari9"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter" width="30" height="30"/></a> &nbsp; <a href="https://www.linkedin.com/in/shlokchaudhari9/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="LinkedIn" width="30" height="30"/></a> |
 
 </div>
+
+### 🎯 GitHub Summary &nbsp;
 
 <table style="border-collapse:collapse;border:none;">
   <tr>
