@@ -12,6 +12,19 @@
 
 </div>
 
+### 🎯 Work Stats &nbsp;
+
+<table style="border-collapse:collapse;border:none;">
+  <tr>
+    <th>
+      <img src="https://github-readme-stats.vercel.app/api?username=shlokchaudhari9&hide_border=true&show_icons=true&custom_title=Shlok's GitHub Stats&count_private=true&theme=blueberry" align="center" />
+    </th>
+    <th>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shlokchaudhari9&hide_border=true&theme=blueberry" align="center" />
+    </th>
+  </tr>
+</table>
+
 ### 🖥️ Tech Stack &nbsp;
 
 <p  align="left">
@@ -31,16 +44,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="GoogleCloud" width="40" height="40" /> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40" /> &nbsp;
 </p>
-
-### 🎯 Work Stats &nbsp;
-
-<table style="border-collapse:collapse;border:none;">
-  <tr>
-    <th>
-      <img src="https://github-readme-stats.vercel.app/api?username=shlokchaudhari9&hide_border=true&show_icons=true&custom_title=Shlok's GitHub Stats&count_private=true&theme=blueberry" align="center" />
-    </th>
-    <th>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shlokchaudhari9&hide_border=true&theme=blueberry" align="center" />
-    </th>
-  </tr>
-</table>
