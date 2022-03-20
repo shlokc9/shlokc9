@@ -8,7 +8,7 @@
 
 | Work | Off-Work |  More on |
 | :--- | :--- | :--- |
-| 🚀 Software Engineer @ [InfraCloud Technologies Inc.](//infracloud.io) <br/>🔰 Open-Source Cloud-Native Tech Enthusiast <br/>🌱 Perpetual Learner | 🚲 Rides Bicycle <br/>♟️	Plays Chess as [thewarpup](//chess.com/member/thewarpup) <br/>💙 to Binge 🎥 <br/>♥️ Listening to 🎵&🎙️ | <a href="https://twitter.com/shlokchaudhari9"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter" width="30" height="30"/></a> &nbsp; <a href="https://www.linkedin.com/in/shlokchaudhari9/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/></a> |
+| 🚀 Software Engineer @ [InfraCloud Technologies Inc.](//infracloud.io) <br/>🔰 Open-Source Cloud-Native Tech Enthusiast <br/>🌱 Perpetual Learner | 🚲 Rides bicycle <br/>♟️	Plays chess as [thewarpup](//chess.com/member/thewarpup) <br/> ❤️ to binge 🎥 & listen to 🎵or🎙️| <a href="https://twitter.com/shlokchaudhari9"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter" width="30" height="30"/></a> &nbsp; <a href="https://www.linkedin.com/in/shlokchaudhari9/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/></a> |
 
 </div>
 
