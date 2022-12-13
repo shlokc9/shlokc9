@@ -8,7 +8,7 @@
 
 | Work | Off-Work |  More on |
 | :--- | :--- | :--- |
-| 🚀 Prev. Software Engineer @ [InfraCloud Technologies Inc.](//infracloud.io) <br/>🔰 Open-Source Cloud-Native Tech Enthusiast <br/>🌱 Perpetual Learner | 🚲 Rides bicycle <br/>♟️	Plays chess as [thewarpup](//chess.com/member/thewarpup) <br/> ❤️ to binge 🎥 & listen to 🎵or🎙️| <a href="https://twitter.com/shlokchaudhari9"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter" width="30" height="30"/></a> &nbsp; <a href="https://www.linkedin.com/in/shlokchaudhari9/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/></a> |
+| 🚀 Prev. Software Engineer @ [InfraCloud Technologies Inc.](//infracloud.io) <br/>🔰 Open-Source Cloud-Native Tech Enthusiast <br/>🌱 Perpetual Learner | 🚲 Rides bicycle <br/>♟️	Plays chess as [thewarpup](//chess.com/member/thewarpup) <br/> ❤️ to binge 🎥 & listen to 🎵or🎙️| <a href="https://twitter.com/shlokc9"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter" width="30" height="30"/></a> &nbsp; <a href="https://www.linkedin.com/in/shlokc9/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/></a> |
 
 </div>
 
@@ -38,10 +38,10 @@
 <table style="border-collapse:collapse;border:none;">
   <tr>
     <th>
-      <img src="https://github-readme-stats.vercel.app/api?username=shlokchaudhari9&hide_border=true&show_icons=true&custom_title=Shlok's GitHub Stats&count_private=true&theme=blueberry" align="center" />
+      <img src="https://github-readme-stats.vercel.app/api?username=shlokc9&hide_border=true&show_icons=true&custom_title=Shlok's GitHub Stats&count_private=true&theme=blueberry" align="center" />
     </th>
     <th>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shlokchaudhari9&hide_border=true&theme=blueberry" align="center" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shlokc9&hide_border=true&theme=blueberry" align="center" />
     </th>
   </tr>
 </table>
