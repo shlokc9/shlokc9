@@ -8,7 +8,7 @@
 
 | Work | Off-Work |  More on |
 | :--- | :--- | :--- |
-| 💪🏽 Prev. SWE Intern @ [Veeam Software Corp.](https://www.veeam.com/)<br/>🚀 Prev. Software Engineer @ [InfraCloud Technologies Inc.](//infracloud.io) <br/>♾️ Prev. Associate Software Engineer @ [Abzooba Inc.](//abzooba.com) <br/>🔰 Open-Source Cloud-Native Tech Enthusiast <br/>🌱 Perpetual Learner - Interested in K8s Cluster Management space | 🍜 Big-time foodie <br/>🚗 Long drives and wandering in nature <br/>🏋🏽 Gym enthusiast <br/>♟️ Plays chess as [thewarpup](//chess.com/member/thewarpup) <br/>❤️ to binge 🎥 & listen to 🎵or🎙️| <a href="https://twitter.com/shlokc9"><img src="./twitter.png" alt="Twitter" width="30" height="30"/></a> &nbsp; <a href="https://www.linkedin.com/in/shlokc9/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/></a> |
+| 💪🏽 Prev. SWE Intern @ [Veeam Software Corp.](https://www.veeam.com/)<br/>🚀 Prev. Software Engineer @ [InfraCloud Technologies Inc.](//infracloud.io) <br/>♾️ Prev. Associate Software Engineer @ [Abzooba Inc.](//abzooba.com) <br/>🔰 Open-Source Cloud-Native Tech Enthusiast <br/>🌱 Perpetual Learner - Interested in K8s Cluster Management space | 🍜 Big-time foodie <br/>🚗 Long drives and wandering in nature <br/>🏋🏽 Gym enthusiast <br/>♟️ Plays chess as [pup-knight](//chess.com/member/pup-knight) <br/>❤️ to binge 🎥 & listen to 🎵or🎙️| <a href="https://twitter.com/shlokc9"><img src="./twitter.png" alt="Twitter" width="30" height="30"/></a> &nbsp; <a href="https://www.linkedin.com/in/shlokc9/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/></a> |
 
 </div>
 
